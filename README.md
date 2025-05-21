@@ -1,8 +1,4 @@
 ## Hi there 👋
-<img
-  src="https://github.com/RicoGunawan12/project-8-11-fe/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoGunawan12&layout=pie)
 
 <!--
