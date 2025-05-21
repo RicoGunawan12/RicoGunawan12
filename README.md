@@ -1,4 +1,8 @@
 ## Hi there 👋
+<img
+  src="https://github.com/RicoGunawan12/project-8-11-fe/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoGunawan12&layout=pie)
 
 - 🌱 I’m currently learning full stack technology such as Go 
