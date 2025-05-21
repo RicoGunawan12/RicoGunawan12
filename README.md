@@ -1,11 +1,10 @@
 ## Hi there 👋
 <img
-  src="https://github.com/RicoGunawan12/project-8-11-fe/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/RicoGunawan12/project-8-11-fe/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoGunawan12&layout=pie)
 
-- 🌱 I’m currently learning full stack technology such as Go 
 <!--
 **RicoGunawan12/RicoGunawan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning full stack technology such as Go 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
