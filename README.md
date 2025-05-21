@@ -1,6 +1,8 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoGunawan12&layout=pie)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicoGunawan12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoGunawan12&layout=pie)
+
+- 🌱 I’m currently learning full stack technology such as Go 
 <!--
 **RicoGunawan12/RicoGunawan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
